@@ -24,6 +24,7 @@
 - [Finding work: How do you find work as a freelancer?](#finding-work-how-do-you-find-work-as-a-freelancer)
   * [Word of mouth](#word-of-mouth)
   * [Consultant brokers (Swedish: Konsultmäklare)](#consultant-brokers-swedish-konsultmaklare)
+- [Banking](#banking)
 - [Invoicing](#invoicing)
   * [Creating invoices manually](#creating-invoices-manually)
   * [Creating invoices with a service](#creating-invoices-with-a-service)
@@ -35,7 +36,7 @@
     + [Christmas gifts](#christmas-gifts)
     + [Wellness grant (Swedish: Friskvårdsbidrag)](#wellness-grant-swedish-friskvardsbidrag)
   * [Accrual fund (Swedish: Periodiseringsfond)](#accrual-fund-swedish-periodiseringsfond)
-    + [Consider selling your privately owned, work-related tools to your company](#consider-selling-your-privately-owned-work-related-tools-to-your-company)
+  * [Consider selling your privately owned, work-related tools to your company](#consider-selling-your-privately-owned-work-related-tools-to-your-company)
   * [Reinvesting your profits / Capital insurance (Swedish: Kapitalförsäkring)](#reinvesting-your-profits--capital-insurance-swedish-kapitalforsakring)
 - [Final words](#final-words)
 
@@ -275,7 +276,7 @@ Consultant brokers are essentially middle-men that seek out potential clients, c
 
 
 
-﻿## Banking
+## Banking
 
 If you have a limited liability company, you will need to setup a separate bank account for your company. If you are a sole proprietor, it's still probably a good idea to set up a separate bank account for your company just to keep a clear record of transactions relating to your company. 
 
@@ -347,13 +348,28 @@ In terms of accounting and paperwork, there are a couple of things to keep track
 
 ### Taxes
 
-What kind of taxes do you need to pay? We're in Sweden so the question might be better formulated, what kind of taxes do you not need to pay??? Just kidding. 
+What kind of taxes do you need to pay? We're in Sweden so the question might be better formulated, what kind of taxes do you not need to pay??? 😅 Just kidding, taxes are cool.
 
-- VAT (Swedish: Moms, Mervärdeskatt). Shortly after declaring the VAT you need to make a payment to Skatteverket with any outstanding VAT. See more under "Accounting". 
-- Corporate tax (Swedish: Inkomstskatt, Bolagsskatt). This is what you pay on the profit that your company makes. When you first start your company, you will give Skatteverket an estimate of how much profit you are expecting to make. You hand this in via a preliminary income declaration (Swedish: Preliminär inkomstdeklaration). After that, you will pay them taxes on a monthly basis based on that estimate. For subsequent years, the estimate will be based on how much profit you made during the previous years. If you expect your profits to significantly differ one year, you can always make a request to modify the estimate for that year and thus either decrease or increase the amount of taxes you need to pay during the year. 
 
-[Skatteverket - Debiterade preliminärskatt](https://www.skatteverket.se/foretagochorganisationer/skatter/skattekontobetalaochfatillbaka/debiteradpreliminarskatt/debiteradpreliminarskattnardustartarforetag.4.5c281c7015abecc2e208ee.html)
-[Skatteverket - Ändra din preliminärskatt](https://www.skatteverket.se/foretagochorganisationer/skatter/skattekontobetalaochfatillbaka/debiteradpreliminarskatt/andradindebiteradepreliminarskatt.4.5c281c7015abecc2e208d1.html)
+
+#### VAT, Value Added Tax. (Swedish: Moms, Mervärdeskatt)
+
+Shortly after declaring the VAT you need to make a payment to Skatteverket with any outstanding VAT. See more under "Accounting". 
+
+
+
+#### **Corporate tax (Swedish: Inkomstskatt, Bolagsskatt)** 
+
+This is what you pay on the profit that your company makes. 
+
+When you first start your company, you will give Skatteverket an estimate of how much profit you are expecting to make. You hand this in via a preliminary income declaration (Swedish: Preliminär inkomstdeklaration). After that, you will pay a portion of the tax on a monthly basis based on that estimate. 
+
+For subsequent years, the estimate will be based on how much profit you made during the previous years. If you expect your profits to significantly differ one year, you can always make a request to modify the estimate for that year and thus either decrease or increase the amount of taxes you need to pay during the year. 
+
+*Links*:
+
+- [Skatteverket - Debiterade preliminärskatt](https://www.skatteverket.se/foretagochorganisationer/skatter/skattekontobetalaochfatillbaka/debiteradpreliminarskatt/debiteradpreliminarskattnardustartarforetag.4.5c281c7015abecc2e208ee.html)
+- [Skatteverket - Ändra din preliminärskatt](https://www.skatteverket.se/foretagochorganisationer/skatter/skattekontobetalaochfatillbaka/debiteradpreliminarskatt/andradindebiteradepreliminarskatt.4.5c281c7015abecc2e208d1.html)
 
 
 
@@ -416,7 +432,7 @@ When you later want to withdraw money from the accrual fund (i.e. you want to pa
 
 
 
-#### Consider selling your privately owned, work-related tools to your company 
+### Consider selling your privately owned, work-related tools to your company 
 
 If you have equipment that you will be using predominantly in your company, it's a good idea to let your company buy that equipment from you, and in the process lowering the company's profits and thus lowering the company's taxation.
 
