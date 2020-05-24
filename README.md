@@ -392,7 +392,6 @@ Additionally, one nice thing to know is that if you don't pay dividends one year
 *Links:* 
 
 +  [Skatteverket - Utdelning på kvalificerade aktier](https://www.skatteverket.se/foretagochorganisationer/drivaforetag/famansforetag/utdelningochvinstfranfamansforetag/utdelningpakvalificeradeaktier.4.b1014b415f3321c0de27ce.html)
-+  [here](https://www.skatteverket.se/foretagochorganisationer/drivaforetag/famansforetag/utdelningochvinstfranfamansforetag/utdelningpakvalificeradeaktier.4.b1014b415f3321c0de27ce.html)
 
 
 
