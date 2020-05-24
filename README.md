@@ -1,10 +1,45 @@
 # How To Become a Freelancer in Sweden
 
+<!-- toc -->
 
+- [Disclaimer](#disclaimer)
+- [Pull Requests Welcome!](#pull-requests-welcome)
+- [Introduction](#introduction)
+  * [Considerations](#considerations)
+  * [What is a freelancer?](#what-is-a-freelancer)
+  * [Before we start: types of businesses you can setup in Sweden](#before-we-start-types-of-businesses-you-can-setup-in-sweden)
+- [Comparison: How does freelancing compare with being an employee in Sweden?](#comparison-how-does-freelancing-compare-with-being-an-employee-in-sweden)
+  * [Financial risk](#financial-risk)
+  * [Legal risk](#legal-risk)
+  * [Growth](#growth)
+  * [Compensation](#compensation)
+  * [Notice period](#notice-period)
+  * [Freedom](#freedom)
+  * [Loneliness / Isolation](#loneliness--isolation)
+  * [Alignment of Incentives](#alignment-of-incentives)
+- [Checklist: What is needed to start freelancing?](#checklist-what-is-needed-to-start-freelancing)
+  * [Enskild Firma (EF)](#enskild-firma-ef)
+  * [Aktiebolag (AB) - Limited Company](#aktiebolag-ab---limited-company)
+- [Contracts: Most important things to consider](#contracts-most-important-things-to-consider)
+- [Finding work: How do you find work as a freelancer?](#finding-work-how-do-you-find-work-as-a-freelancer)
+  * [Word of mouth](#word-of-mouth)
+  * [Consultant brokers (Swedish: Konsultmäklare)](#consultant-brokers-swedish-konsultmaklare)
+- [Invoicing](#invoicing)
+  * [Creating invoices manually](#creating-invoices-manually)
+  * [Creating invoices with a service](#creating-invoices-with-a-service)
+- [Accounting, Paperwork and Dates](#accounting-paperwork-and-dates)
+  * [Taxes](#taxes)
+- [Optional reading](#optional-reading)
+  * [Limited Liability Companies & Dividends](#limited-liability-companies--dividends)
+  * [Benefits](#benefits)
+    + [Christmas gifts](#christmas-gifts)
+    + [Wellness grant (Swedish: Friskvårdsbidrag)](#wellness-grant-swedish-friskvardsbidrag)
+  * [Accrual fund (Swedish: Periodiseringsfond)](#accrual-fund-swedish-periodiseringsfond)
+    + [Consider selling your privately owned, work-related tools to your company](#consider-selling-your-privately-owned-work-related-tools-to-your-company)
+  * [Reinvesting your profits / Capital insurance (Swedish: Kapitalförsäkring)](#reinvesting-your-profits--capital-insurance-swedish-kapitalforsakring)
+- [Final words](#final-words)
 
-[TOC]
-
-
+<!-- tocstop -->
 
 ## Disclaimer
 
@@ -410,4 +445,4 @@ Since you are not the owner of the account, only the subscriber of the policy, y
 
 Deciding whether you should be a freelancer or an employee is not necessarily an easy choice. It very much depends on what you want to do and what you find more valuable, and no one can make that decision for you. Furthermore, life is long, and just because you make a decision at one stage doesn't mean you have to stick with it for all eternity. There's nothing stopping you from going back and forth between freelancing and being an employee, so simply figure out what makes most sense for you at this stage and go with that. 
 
-I hope that you found this guide useful and informative, regardless of what you decide to do moving forward. If you did, I'd be super happy if you gave me a shoutout on Twitter, [@nabati](https://twitter.com/nabati). 
+I hope that you found this guide useful and informative, regardless of what you decide to do moving forward. If you did, I'd be super happy if you gave me a shoutout on Twitter, [@nabati](https://twitter.com/nabati).
