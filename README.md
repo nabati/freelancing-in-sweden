@@ -64,9 +64,9 @@ If you found this guide valuable, I'd really appreciate it if you'd let me know 
 
 ### Considerations
 
-2. **Language.** I've written this guide in English simply because most Swedes are pretty fluent in English, and it would make it more accessible for people in general. However, this guide has been written by a Swedish citizen mainly for Swedish citizens. If you are not a Swedish citizen, there might be other considerations that you might need to take into account before venturing on this path.
-3. **Links.** I've tried to find links in English for the different pages that I have linked, but in some cases there are no simple mappings between the pages, and your best bet will be to use Google Translate or a similar service to extract the information available on the page.
-4. **Location.** I'm most acquainted with the freelancing situation in Stockholm and it's surroundings, so take that into account if you are planning on freelancing from some other location. Some things quoted in this text such as the hourly rates or availability of projects can likely vary somewhat depending what location you are trying to find projects in.
+1. **Language.** I've written this guide in English simply because most Swedes are pretty fluent in English, and it would make it more accessible for people in general. However, this guide has been written by a Swedish citizen mainly for Swedish citizens. If you are not a Swedish citizen, there might be other considerations that you might need to take into account before venturing on this path.
+2. **Links.** I've tried to find links in English for the different pages that I have linked, but in some cases there are no simple mappings between the pages, and your best bet will be to use Google Translate or a similar service to extract the information available on the page.
+3. **Location.** I'm most acquainted with the freelancing situation in Stockholm and it's surroundings, so take that into account if you are planning on freelancing from some other location. Some things quoted in this text such as the hourly rates or availability of projects can likely vary somewhat depending what location you are trying to find projects in.
 
 ### What is a freelancer?
 
