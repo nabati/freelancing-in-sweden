@@ -25,6 +25,7 @@
   * [Word of mouth](#word-of-mouth)
   * [Consultant brokers (Swedish: Konsultmäklare)](#consultant-brokers-swedish-konsultmaklare)
 - [Banking](#banking)
+- [Insurance](#insurance)
 - [Invoicing](#invoicing)
   * [Creating invoices manually](#creating-invoices-manually)
   * [Creating invoices with a service](#creating-invoices-with-a-service)
@@ -123,14 +124,7 @@ Generally speaking, you can mitigate most of the financial risks simply by charg
 
 If you've done something that is damaging for the company as an employee, you are generally pretty well protected against legal risk. As a freelancer, you can end up being liable. One example could be that you accidentally end up dropping some tables in the production database, which subsequently leads to an outage, which might lead to for instance 500 000 SEK loss of income for the client. Based on what your contract says regarding liability and who the client is, you can end up being liable for the client's loss of income. 
 
-I have not yet heard of a case where a client has ended up pursuing a litigious path against a freelancer in Sweden, but I'm sure such cases exist. You can mitigate this risk by subscribing to a liability insurance policy (Swedish: Ansvarsförsäkring) for your company. Another way to mitigate this risk would be to include a liability disclaimer in the contract, and/or regulate the size of the damages that you can end up paying to the client. 
-
-*Links*
-
-- [If - Företag](https://www.if.se/foretag)
-- [If - Ansvarsförsäkring](https://www.if.se/foretag/forsakringar/ansvarsforsakring)
-
-
+I have not yet heard of a case where a client has ended up pursuing a litigious path against a freelancer in Sweden, but I'm sure such cases exist. You can mitigate this risk by subscribing to a [liability insurance policy](#insurance) (Swedish: Ansvarsförsäkring) for your company. Another way to mitigate this risk would be to include a liability disclaimer in the contract, and/or regulate the size of the damages that you can end up paying to the client.
 
 ### Growth
 
@@ -225,6 +219,7 @@ Essentially, you only need a couple of things to start freelancing.
 2. - [ ] Find a project. See more under "Finding a project".
 3. - [ ] Getting a bank account for your company. See more under "Banking". 
 4. - [ ] (Optional) Finding an accounting firm. See more under "Accounting". 
+5. - [ ] (Optional) Get an insurance policy. See more under "[Insurance](#insurance)"
 
 In Sweden, there are really two forms of companies that you can set up that are relevant for you as a freelancer, it's either Enskild Firma or Aktiebolag. In short, Enskild Firma essentially gives you as an individual a license to do business, where your personal finances are tightly intertwined with the company's finances. Aktiebolag, on the other hand, is a separate legal entity that handles its own finances and can pay you salary and dividends. See more under "Before we start: types of businesses you can setup in Sweden".
 
@@ -306,7 +301,19 @@ Most banks offer banking for companies. One example is SEB, which would cost you
 
 - [SEB - Företagspaketet](https://seb.se/foretag/bli-foretagskund/foretagspaketet)
 
-  
+
+## Insurance
+
+As outlined in the [legal risk](#legal-risk) section, you may be held legally responsible for any damages your client incurs as a result of your work. As such, it's a good idea to invest in liability insurance ("ansvarsförsäkring"). Additionally, some clients require you to have some sort of liability insurance in order for you to work with them.
+
+Liability insurance is often included as part of a company package deal, which typically also covers loss or damage of company property, extended medical insurance, vehicle insurance etc. Remember that your regular home insurance most likely doesn't cover equipment that's registered on your company, e.g. that new 16´´ MacBook Pro you just bought!
+
+Most of the big insurance providers offer some sort of company package and it usually costs a few thousand SEK per year.
+
+*Links*
+
+- [If - Företag](https://www.if.se/foretag)
+- [If - Ansvarsförsäkring](https://www.if.se/foretag/forsakringar/ansvarsforsakring)
 
 ## Invoicing
 
