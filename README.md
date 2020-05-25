@@ -459,6 +459,21 @@ Additionally, one nice thing to know is that if you don't pay dividends one year
 
 ### Benefits
 
+#### Benefits & Taxation
+
+Benefits are essentially anything that the employer gives the employee that the employee can or will be using privately. Some examples can include a gym membership, gifts, a car or housing. Benefits are usually measured by the value of the benefit (Swedish: förmånsvärdet). 
+
+Taxation-wise, Skatteverket has decided which benefits are *tax-free* and which benefits need to be *taxed as benefits* (Swedish: förmånsbeskattning). 
+
++ **If a benefit is tax-free** (Swedish: skattefri förmån), neither the employee nor the employer need to pay tax on the value of the benefit. 
++ **If a benefit is a taxable benefit**, the value of the benefit is essentially taxed the same as if the value of the benefit was paid out as regular salary to the employee, meaning that the value of the benefit will count towards the taxable income of the employee and the employer will need to pay both income tax (on behalf of the employee) as well as social fees (Swedish: arbetsgivaravgift) corresponding to the value of the benefit. For more information on this, check out the section on "Paying yourself salary".
+
+*Links*
+
++ [Skatteverket - Förmåner](https://www.skatteverket.se/privat/skatter/arbeteochinkomst/formaner.4.3a2a542410ab40a421c80001009.html)
+
+
+
 #### Christmas gifts
 
 Christmas gifts can be given to employees in a tax-free fashio, up to 450 SEK / year including VAT. A company can gift their employees with a wide number of things ranging from stocks, trips, restaurant visits or gift cards. The company can't, however, gift their employees money in a tax-free fashion. 
