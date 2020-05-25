@@ -182,13 +182,6 @@ Comparatively for employees in Sweden, most jobs come with a six month trial per
 
 
 
-### Freedom
-
-As an employee, you generally need
-As an employee, you generally need to do what you are told. You always have the option of quitting, but from my experience, there has been a much higher threshold for leaving a job than for terminating a contract. Built into many contracts is also the duration of the contract, which creates a natural decision point where you need to reevaluate if you want to stick with the current project or if you want to switch to something more rewarding.
-
-
-
 ### Loneliness / Isolation
 
 As an employee, you are more closely integrated with the company and will probably feel more attached to the other employees, and the other employees might feel closer to you because of this. In the optimal situation, you won't see much of a difference in a company whether you are freelancing or if you are an employee, but in some cases you will feel and you will be made to feel like an outsider. Also, with the transient nature of your contract, you will naturally feel less invested in the company than you would as an employee, for better and for worse.
