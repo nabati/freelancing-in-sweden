@@ -173,6 +173,26 @@ All  in all, you would end up with about 1 700 000 SEK / year to pay yourself as
 
 
 
+### Flexibility & Freedom
+
+Working as a freelancer will give you a flexibility in controlling your working hours beyond what is normally possible in a regular job. Most jobs in tech in Sweden are centered around a 09-18 schedule and a 40-hour work-week. As a freelancer however, there are a number of factors that put you in a very privileged position to deviate from this, *if that's something that you would like*. 
+
+- Since the hourly compensation is higher, you don't need to work as many hours to sustain yourself. 
+- Since freelancing is generally project based, it's fairly easy to take as much time off as you'd like in between projects. 
+- Since you are generally agreeing on the terms together with the client yourself, you are generally a lot freer to negotiate on the points that are important to you.  
+
+To illustrate this, here's a table that show's you approximatively how much you would have to work on a *yearly* basis in order to continously pay yourself a given salary. This doesn't including any other costs that you might have, such as equipment or accounting services.
+
+| Salary before tax | Company salary cost / year | Hourly rate  | Hours / year | Working months / year |
+| ----------------- | -------------------------- | ------------ | ------------ | --------------------- |
+| 35 000 SEK        | 551 964 SEK                | 1000 SEK / h | 552 hours    | 3,3                   |
+| 40 000 SEK        | 630 816 SEK                | 1000 SEK / h | 631 hours    | 3,8                   |
+| 50 000 SEK        | 788 520 SEK                | 1000 SEK / h | 789 hours    | 4,8                   |
+
+The point of this section is that you are as a freelancer more free to find a format of working that makes sense for you, regardless of if you want to work 50-hour work weeks non-stop all-year long, or if you want to work 30-hour work weeks to spend more time with your kids, or if you'd like to take three months off every year to learn something new, chances are fairly decent that you can find and create these opportunities for yourself within the bounds of freelancing.
+
+
+
 
 ### Notice period
 
