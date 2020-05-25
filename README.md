@@ -30,9 +30,16 @@
   * [Creating invoices with a service](#creating-invoices-with-a-service)
 - [Accounting, Paperwork and Dates](#accounting-paperwork-and-dates)
   * [Taxes](#taxes)
+    + [VAT, Value Added Tax. (Swedish: Moms, Mervärdeskatt)](#vat-value-added-tax-swedish-moms-mervardeskatt)
+    + [**Corporate tax (Swedish: Inkomstskatt, Bolagsskatt)**](#corporate-tax-swedish-inkomstskatt-bolagsskatt)
+- [Salary: Paying Yourself Salary](#salary-paying-yourself-salary)
+  * [Tax deduction for the income tax (Swedish: Skatteavdrag)](#tax-deduction-for-the-income-tax-swedish-skatteavdrag)
+  * [Social fees (Swedish: Arbetsgivaravgift)](#social-fees-swedish-arbetsgivaravgift)
+  * [Salary example](#salary-example)
 - [Optional reading](#optional-reading)
   * [Limited Liability Companies & Dividends](#limited-liability-companies--dividends)
   * [Benefits](#benefits)
+    + [Benefits & Taxation](#benefits--taxation)
     + [Christmas gifts](#christmas-gifts)
     + [Wellness grant (Swedish: Friskvårdsbidrag)](#wellness-grant-swedish-friskvardsbidrag)
   * [Accrual fund (Swedish: Periodiseringsfond)](#accrual-fund-swedish-periodiseringsfond)
@@ -538,3 +545,6 @@ Since you are not the owner of the account, only the subscriber of the policy, y
 Deciding whether you should be a freelancer or an employee is not necessarily an easy choice. It very much depends on what you want to do and what you find more valuable, and no one can make that decision for you. Furthermore, life is long, and just because you make a decision at one stage doesn't mean you have to stick with it for all eternity. There's nothing stopping you from going back and forth between freelancing and being an employee, so simply figure out what makes most sense for you at this stage and go with that. 
 
 I hope that you found this guide useful and informative, regardless of what you decide to do moving forward. If you did, I'd be super happy if you gave me a shoutout on Twitter, [@nabati](https://twitter.com/nabati).
+
+
+
