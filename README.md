@@ -373,6 +373,68 @@ For subsequent years, the estimate will be based on how much profit you made dur
 
 
 
+## Salary: Paying Yourself Salary
+
+At some point, you will likely want to pay yourself a salary. The outline of the process will look like this:
+
+1. Decide how large of a salary you want to pay yourself. 
+
+2. Calculate the tax deduction and social fees for that salary. More information on this in the following sections.
+
+3. Make a record of this salary payout in your accounting. 
+
+4. Transfer the money into your private account. 
+
+5. At the beginning of the following month, send in the employer declaration to Skatteverket, declaring how much salary you've paid out.
+
+   
+
+### Tax deduction for the income tax (Swedish: Skatteavdrag)
+
+In Sweden, the employer is required to pay your income tax every time they pay you your salary and withhold that from your salary. This is called a tax deduction (Swedish: Skatteavdrag). In order to figure out the size of the tax deduction, you or your employer can lookup the taxation in a so called tax table. The taxation is based on where you live, how old you among a couple of other factors. 
+
+ ![Getting the tax table](./assets/taxtableexample.png)
+
+Each of the columns marked 1-6 in the image below correspond to different groups of people that have varying taxation levels. Most people will likely land in the first group represented by the first column, but make sure you check the details to figure out which column you should read.
+
+Essentially, if you were to pay a monthly salary between 34 201-34 400 SEK (corresponding to the first row in the table), and you belong to the group represented by the first column, your employer would need to withhold 7 529 SEK from your salary to cover your income tax.  
+
+![Example of the tax table 29](./assets/taxtablexample.png)
+
+
+
+### Social fees (Swedish: Arbetsgivaravgift)
+
+In addition to the income tax, your employer needs to pay social fees proportional to your salary, covering the costs of the social welfare system in Sweden. This rate also differs a bit depending on who the employee is, but for most people it is currently 31,42%. 
+
+![Size of social fees](./assets/socialfees.png)
+
+
+
+### Salary example
+
+Just as an attempt to clarify this whole process, let's go through an example here; 
+
++ Let's say you are a 32-year old living in Solna, making 34 201 SEK / month.
++ The corresponding social fees are 34 201 SEK * 31,42% = 10 746 SEK.
++ If we lookup your salary in tax table 29, we can see that the tax deduction for your salary is 7 529 SEK.
++ Your employer (i.e. your own business), will need 44 947 SEK to cover the total cost of your salary that is 34 201 SEK before income tax, and you will end up getting 26 690 SEK into your bank account after tax.
+
+When you fill in the employer declaration, it will look something like this; 
+
+![image-20200525074449695](./assets/taxdeclaration.png)
+
+*Links*:
+
++ [Skatteverket - Räkna ut arbetsgivaravgifter och skatteavdrag](https://www.skatteverket.se/foretagochorganisationer/arbetsgivare/arbetsgivaravgifterochskatteavdrag/raknautarbetsgivaravgifterochskatteavdrag.4.361dc8c15312eff6fd1f3ae.html)
++ [Skatteverket - Skattetabeller och preliminärskatt](https://www.skatteverket.se/privat/skatter/arbeteochinkomst/skattetabeller.4.18e1b10334ebe8bc80005221.html#!/start)
++ [Skatteverket - Så läser du skattetabellen](https://www.skatteverket.se/privat/skatter/arbeteochinkomst/skattetabeller/salaserdutabellen.4.319dc1451507f2f99e875f.html)
++ [Skatteverket - Arbetsgivaravgifter](https://www.skatteverket.se/foretagochorganisationer/arbetsgivare/arbetsgivaravgifterochskatteavdrag/arbetsgivaravgifter.4.233f91f71260075abe8800020817.html)
++ [Skatteverket - Lämna arbetsdgivardeklaration](https://www.skatteverket.se/foretagochorganisationer/arbetsgivare/lamnaarbetsgivardeklaration.4.41f1c61d16193087d7fcaeb.html)
++ [Ekonomifakta - Räkna ut din skatt](https://www.ekonomifakta.se/Fakta/Skatter/Rakna-pa-dina-skatter/Rakna-ut-din-skatt/#&&/wEXAQUEY2FsYwUBMYDp9Tkj4OGAN4R9N1IUN54CiLz9yKMG5G2iLHW2Pox3)
+
+
+
 ## Optional reading
 
 In this section I've collected some learnings that I have found relevant and useful over the years. They are not critical to get going with freelancing, but sometime in the future, they can probably be topics that are valuable to revisit.
