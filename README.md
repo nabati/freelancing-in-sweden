@@ -497,7 +497,7 @@ Taxation-wise, Skatteverket has decided which benefits are *tax-free* and which 
 
 #### Christmas gifts
 
-Christmas gifts can be given to employees in a tax-free fashio, up to 450 SEK / year including VAT. A company can gift their employees with a wide number of things ranging from stocks, trips, restaurant visits or gift cards. The company can't, however, gift their employees money in a tax-free fashion. 
+Christmas gifts can be given to employees in a tax-free fashion, up to 450 SEK / year including VAT. A company can gift their employees with a wide number of things ranging from stocks, trips, restaurant visits or gift cards. The company can't, however, gift their employees money in a tax-free fashion. 
 
 *Links*:
 
