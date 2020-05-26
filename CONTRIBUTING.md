@@ -4,7 +4,7 @@ Contributions are more than welcome to this project. The ambition is to keep thi
 
 ## Table of Contents
 
-In order to update the table of contents at the top of the page, you first need to install markdown-toc, which is a node package.
+In order to update the table of contents at the top of the page, you first need to install [markdown-toc](https://github.com/jonschlinkert/markdown-toc), which is a node package.
 
 ```
 yarn global add markdown-toc
