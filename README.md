@@ -277,16 +277,17 @@ This isn't exactly helpful for starting up as you need to get your foot in the d
 
 Consultant brokers are essentially middle-men that seek out potential clients, connect them with freelancers, and take a commission on the hourly rate for providing that service. From what I gather, most of them are pretty undifferentiated and provide similar services so I'd just contact a few of them and then go with whichever one you have the best chemistry with and that can provide your with the most interesting projects. Many times they all have access to the same projects. The commission they charge is usually somewhere between 7-15% of the hourly rate.
 
-﻿I suggest you hop on a call with a couple of them. Generally speaking, they will be more likely to find you something fitting if they have a clear idea of who you are and what kind of project you'd like to take on. Some things you might find yourself talking about with a consultant broker; 
-﻿- Who you are
-﻿- What kind of projects, technologies and industries you have worked on previously.
-﻿- What kind of projects, technologies and industries you would like to work on moving forward.﻿﻿﻿
-﻿- What kind of projects and clients they usually work with. 
-﻿- What kind of hourly rate you are charging
-﻿- If you would be willing to work in places other than where you live.
- - How the process looks like once a compatible project has been found
-﻿﻿﻿- What their terms of payment is. Do you invoice the client and the broker invoices you, or do they invoice the client and you invoice the broker? If so, what's the credit time?
-﻿- If they offer any other services than finding you projects. 
+I suggest you hop on a call with a couple of them. Generally speaking, they will be more likely to find you something fitting if they have a clear idea of who you are and what kind of project you'd like to take on. Some things you might find yourself talking about with a consultant broker;
+
+- Who you are
+- What kind of projects, technologies and industries you have worked on previously.
+- What kind of projects, technologies and industries you would like to work on moving forward.
+- What kind of projects and clients they usually work with.
+- What kind of hourly rate you are charging
+- If you would be willing to work in places other than where you live.
+- How the process looks like once a compatible project has been found
+- What their terms of payment is. Do you invoice the client and the broker invoices you, or do they invoice the client and you invoice the broker? If so, what's the credit time?
+- If they offer any other services than finding you projects.
 
 *Links*
 
@@ -356,7 +357,7 @@ In terms of accounting and paperwork, there are a couple of things to keep track
 - **Profit and loss statement**. A profit and loss statement details revenues, costs, profits and losses during a given period. At a minimum, you will need to create this at the end of the financial year to include in your annual reports.
 - **Annual reports (Swedish: Årsredovisning)**..  After the financial year has been concluded, your company needs to submit an annual report to Bolagsverket. This needs to be done at the latest seven months into the new year. 
 
-﻿Over the last couple of years, several digital players such as Redflag or Dooer have popped up to further simplify all the accounting needs that your company might have. When I started out, none of these were significantly visible on my radar and thus I ﻿went with a traditional accounting company. However, if I ﻿had started my company today, I would probably have gone with a company similar to one of the below. ﻿
+Over the last couple of years, several digital players such as Redflag or Dooer have popped up to further simplify all the accounting needs that your company might have. When I started out, none of these were significantly visible on my radar and thus I went with a traditional accounting company. However, if I had started my company today, I would probably have gone with a company similar to one of the below.
 
 *Links:* 
 
@@ -548,8 +549,8 @@ Since you are not the owner of the account, only the subscriber of the policy, y
 
 *Links:* 
 
-+ [Avanza - Kapitalförsäkring](https://www.avanza.se/konton-lan-prislista/konton/kapitalforsakring.html﻿)
-+ [Nordnet - Kapitalförsäkring](https://www.nordnet.se/se/tjanster/konton/kapitalforsakring﻿)
++ [Avanza - Kapitalförsäkring](https://www.avanza.se/konton-lan-prislista/konton/kapitalforsakring.html)
++ [Nordnet - Kapitalförsäkring](https://www.nordnet.se/se/tjanster/konton/kapitalforsakring)
 
 
 
