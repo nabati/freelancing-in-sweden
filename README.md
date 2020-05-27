@@ -320,7 +320,7 @@ Most of the big insurance providers offer some sort of company package and it us
 
 When you've sold your services to your client, you need to send them an invoice. There are a couple of things you need to include on the invoice: 
 - Date of sending the invoice
-- Invoice number. The invoice number is an arbitrary number assigned to each invoice. Which starting number you use on your first invoice is up to you, but for the financial year, all the invoices should have increasing invoice numbers *without any gaps*. So if your first invoice for the financial year is 1000, then the second should be 1002, then 1003, etc etc.
+- Invoice number. The invoice number is an arbitrary number assigned to each invoice. Which starting number you use on your first invoice is up to you, but for the financial year, all the invoices should have increasing invoice numbers *without any gaps*. So if your first invoice for the financial year is 1000, then the second should be 1001, then 1002, etc etc.
 - The sellers address and VAT-number. 
 - The buyers address. If you are selling your services to a company in another EU-country, you need to specify the buyer's VAT-number as well.
 - Specification of what has been sold. 
