@@ -151,7 +151,7 @@ Before we compare the compensation that an employee receives with the compensati
 Normally, hourly rates for freelancers range between 700 to 1200 SEK. For the following calculation, let's make the assumption that the hourly rate is 1000 SEK and that you will be able to find new work continuously and without gaps, something that hasn't been much of an issue over the last couple of years. Thus, the breakdown of the compensation would be;
 
 - Working hours in a year: 167 working hours per month * 12 months = 2004 hours
-- Lost working hours: 25 vacation days * 8 sick days * 8 hours per day = 264 hours
+- Lost working hours: (25 vacation days + 8 sick days) * 8 hours per day = 264 hours
 - Total working hours: 2004 hours / year - 264 hours / year = 1740 hours / year. 
 - Hourly rate: 1000 SEK / hour
 - Total revenue: 1740 hours / year * 1000 SEK / hour = 1 740 000 SEK / year.   
