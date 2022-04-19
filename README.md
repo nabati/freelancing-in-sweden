@@ -564,7 +564,7 @@ Since you are not the owner of the account, only the subscriber of the policy, y
 
 ## Pension
 
-Most employees will receive an employer pension (tjänstepension) from their employer and so it is important to account for this in comparisons if you start your own company. A normal rate for pension contributions is 4.5% of salary up to the state tax salary limit (brytpunkten) and 30% above that. However, if you run your own company then you can pay whatever you like from 0 to upto a maximum of 35% of your total salary.
+Most employees will receive an employer pension (tjänstepension) from their employer, so it is important to account for this in comparisons if you start your own company. A normal rate for pension contributions is 4.5% of salary up to the state tax salary limit (brytpunkten) and 30% above that. However, if you run your own company then you can pay whatever you like from 0 to a maximum of 35% of your total salary.
 
 ## Final words
 
