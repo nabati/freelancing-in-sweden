@@ -349,7 +349,7 @@ Some services create the invoice for you and can handle for instance keeping tra
 *Links:*
 
 + [Billogram](https://billogram.com/) 
-+ [Tinyinvoice.com - Super simple invoicing, can create a PDF invoice for free](https://www.tinyinvoice.com)
++ [Tinyinvoice.com](https://www.tinyinvoice.com)
 
 
 ## Accounting, Paperwork and Dates
