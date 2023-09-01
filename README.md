@@ -354,7 +354,7 @@ Some services create the invoice for you and can handle for instance keeping tra
 
 ## Accounting, Paperwork and Dates
 
-Likely the biggest difference between being an employee and a freelancer is the amount of paperwork you have to deal with. Fortunately, you can outsource that work to another company if you are so inclined. While it's not a requirement, I'd strongly recommend it from my end. Ultimately, it will end up saving you a ton of time and headache, and the your accounting will likely be in better shape than if you try to MacGyver it. 
+Likely the biggest difference between being an employee and a freelancer is the amount of paperwork you have to deal with. Fortunately, you can outsource that work to another company if you are so inclined. While it's not a requirement, I'd strongly recommend it from my end. Ultimately, it will end up saving you a ton of time and headache while your accounting will likely be in better shape than if you try to MacGyver it. 
 
 In terms of accounting and paperwork, there are a couple of things to keep track of: 
 - **Current recording of transactions** (Swedish: Löpande bokföring). Essentially, all transactions need to be continuously accounted for in the books.
